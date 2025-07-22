@@ -1,1 +1,11 @@
+
+.eb-garamond-normal {
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.font {
+    font-family: EB Garamond, serif;
+}
+
 @import "tailwindcss"
